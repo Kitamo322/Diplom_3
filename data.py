@@ -13,8 +13,8 @@ class Url:
 
 
 class ApiUrls:
-    CREATE_USER = '/api/auth/register'
-    DELETE_USER = '/api/auth/user'
+    CREATE_USER = 'api/auth/register'
+    DELETE_USER = 'api/auth/user'
 
 
 class AssertFlags:
